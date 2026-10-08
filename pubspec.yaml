@@ -1,0 +1,26 @@
+name: termiguard
+description: "Termiguard - Early Termite Activity Detection System"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  shared_preferences: ^2.2.3
+  intl: ^0.19.0
+  share_plus: 13.0.0
+  firebase_core: ^4.15.0
+  firebase_database: ^12.6.0
+  file_saver: ^0.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,1001 @@
+sample_id,dominant_frequency_hz,amplitude,rms,snr_db,pulse_rate_hz,activity,label
+1,5648.06,0.8795,0.6839,17.49,26.82,Feeding,Termite
+2,13876.3,0.1398,0.1275,-6.02,8.49,Background Noise,No_Termite
+3,19754.59,0.0389,0.1793,6.65,9.44,Background Noise,No_Termite
+4,3693.45,0.4594,0.0181,2.55,5.68,Background Noise,No_Termite
+5,9281.76,0.9749,0.4845,21.96,29.28,Feeding,Termite
+6,1957.3,0.5667,0.5578,8.06,22.43,Alarm/Drumming,Termite
+7,1231.06,0.7029,0.6349,4.44,22.41,Feeding,Termite
+8,6374.28,0.3995,0.0865,1.27,5.39,Background Noise,No_Termite
+9,17730.96,0.1318,0.0159,5.66,6.16,Background Noise,No_Termite
+10,523.26,0.2739,0.2354,4.38,8.75,Background Noise,No_Termite
+11,2052.14,0.7309,0.4879,16.81,21.51,Alarm/Drumming,Termite
+12,17486.17,0.3888,0.1103,-2.42,9.84,Background Noise,No_Termite
+13,14777.89,0.073,0.0951,-4.83,2.39,Background Noise,No_Termite
+14,2719.27,0.558,0.7926,12.41,6.05,Feeding,Termite
+15,6956.65,0.9775,0.6718,4.97,10.46,Feeding,Termite
+16,8851.62,0.7603,0.568,6.67,28.62,Feeding,Termite
+17,1695.02,0.8423,0.5646,14.28,24.14,Alarm/Drumming,Termite
+18,4690.33,0.1258,0.0547,4.03,1.77,Background Noise,No_Termite
+19,1049.51,0.9477,0.7567,24.89,29.23,Feeding,Termite
+20,4264.3,0.8632,0.2923,20.95,23.96,Feeding,Termite
+21,4566.37,0.2777,0.1523,0.44,2.24,Background Noise,No_Termite
+22,8835.88,0.6083,0.7332,24.02,11.64,Feeding,Termite
+23,3428.55,0.7979,0.2522,11.99,19.83,Alarm/Drumming,Termite
+24,2967.66,0.7731,0.2486,7.84,23.09,Feeding,Termite
+25,1223.24,0.7728,0.4884,16.03,26.28,Excavating,Termite
+26,16511.15,0.3454,0.1458,-5.19,3.48,Background Noise,No_Termite
+27,3392.28,0.9328,0.7204,18.58,19.88,Alarm/Drumming,Termite
+28,16756.57,0.3465,0.1585,3.55,6.97,Background Noise,No_Termite
+29,3256.24,0.4385,0.017,4.86,8.81,Background Noise,No_Termite
+30,3683.63,0.6223,0.6908,21.31,23.59,Feeding,Termite
+31,10198.61,0.1578,0.1581,7.66,0.06,Background Noise,No_Termite
+32,2968.13,0.793,0.6679,5.35,20.85,Excavating,Termite
+33,5642.03,0.7038,0.5796,23.5,29.07,Excavating,Termite
+34,2139.94,0.3502,0.0263,-4.58,9.37,Background Noise,No_Termite
+35,14192.62,0.2994,0.093,1.18,0.67,Background Noise,No_Termite
+36,1010.27,0.4873,0.2425,3.49,8.72,Background Noise,No_Termite
+37,7703.5,0.56,0.3942,13.75,5.61,Feeding,Termite
+38,6991.31,0.6731,0.7983,12.38,16.15,Excavating,Termite
+39,9082.6,0.4015,0.1765,-6.03,1.64,Background Noise,No_Termite
+40,6964.74,0.673,0.7705,6.32,21.36,Feeding,Termite
+41,9464.35,0.8373,0.4386,9.03,15.49,Feeding,Termite
+42,2228.0,0.6535,0.3279,3.68,23.41,Alarm/Drumming,Termite
+43,4001.0,0.7629,0.7809,7.08,26.61,Excavating,Termite
+44,17385.6,0.39,0.2127,3.7,7.77,Background Noise,No_Termite
+45,1746.83,0.9644,0.57,20.52,5.81,Excavating,Termite
+46,9682.29,0.0801,0.1745,-2.25,1.17,Background Noise,No_Termite
+47,5170.15,0.8119,0.3614,20.55,6.61,Feeding,Termite
+48,6276.2,0.0256,0.0274,-2.94,4.55,Background Noise,No_Termite
+49,9650.78,0.16,0.1768,5.48,6.0,Background Noise,No_Termite
+50,876.38,0.5972,0.3452,24.71,17.01,Excavating,Termite
+51,2935.66,0.3167,0.1786,0.07,4.99,Background Noise,No_Termite
+52,294.44,0.2685,0.0311,-3.69,3.26,Background Noise,No_Termite
+53,760.74,0.2105,0.0419,0.22,0.79,Background Noise,No_Termite
+54,13820.35,0.1161,0.0502,-8.12,8.01,Background Noise,No_Termite
+55,12764.96,0.0352,0.2347,-9.06,7.06,Background Noise,No_Termite
+56,10871.8,0.4381,0.1814,4.43,7.09,Background Noise,No_Termite
+57,8240.84,0.9527,0.5286,20.98,7.0,Feeding,Termite
+58,6613.99,0.8792,0.249,4.33,18.16,Excavating,Termite
+59,2015.67,0.6486,0.7855,10.41,26.79,Feeding,Termite
+60,8002.14,0.7742,0.5332,18.82,21.47,Feeding,Termite
+61,9965.17,0.8426,0.3197,17.97,29.37,Feeding,Termite
+62,791.2,0.7582,0.721,19.0,11.44,Feeding,Termite
+63,14879.86,0.186,0.099,7.78,4.25,Background Noise,No_Termite
+64,8736.8,0.7474,0.6352,13.71,19.47,Feeding,Termite
+65,3702.11,0.6746,0.5554,23.07,16.33,Alarm/Drumming,Termite
+66,4292.18,0.3231,0.1859,-7.63,6.23,Background Noise,No_Termite
+67,9135.81,0.6569,0.7828,6.98,9.49,Excavating,Termite
+68,17102.26,0.1387,0.219,-1.98,4.92,Background Noise,No_Termite
+69,3912.72,0.6236,0.4346,24.33,19.82,Excavating,Termite
+70,5236.86,0.1761,0.1956,-7.64,6.57,Background Noise,No_Termite
+71,19399.44,0.1333,0.0276,-6.94,4.54,Background Noise,No_Termite
+72,3701.53,0.7439,0.3492,16.58,25.72,Excavating,Termite
+73,2086.9,0.5665,0.6418,17.6,9.19,Excavating,Termite
+74,9545.15,0.4067,0.1505,5.63,8.44,Background Noise,No_Termite
+75,4196.24,0.1495,0.0237,-0.44,1.12,Background Noise,No_Termite
+76,18738.45,0.0786,0.1185,6.81,0.39,Background Noise,No_Termite
+77,6391.51,0.04,0.0456,7.76,5.07,Background Noise,No_Termite
+78,1014.82,0.8376,0.7208,13.0,24.28,Alarm/Drumming,Termite
+79,5144.04,0.6128,0.218,9.77,21.67,Excavating,Termite
+80,2417.61,0.9865,0.2563,17.8,21.84,Excavating,Termite
+81,8930.63,0.105,0.1762,5.09,8.68,Background Noise,No_Termite
+82,18897.82,0.2586,0.1583,5.64,6.83,Background Noise,No_Termite
+83,788.68,0.8603,0.6059,7.74,28.27,Excavating,Termite
+84,4241.71,0.598,0.5947,24.99,21.28,Excavating,Termite
+85,9783.15,0.9418,0.6694,15.47,15.17,Feeding,Termite
+86,8845.9,0.6972,0.6006,20.77,15.1,Excavating,Termite
+87,15269.47,0.2291,0.2063,-7.84,7.98,Background Noise,No_Termite
+88,10935.33,0.1758,0.098,-2.87,0.06,Background Noise,No_Termite
+89,13939.8,0.2354,0.067,-3.28,3.89,Background Noise,No_Termite
+90,1195.36,0.8507,0.5717,13.2,20.09,Feeding,Termite
+91,8701.67,0.7656,0.2154,10.51,17.98,Feeding,Termite
+92,7665.89,0.2985,0.1381,0.94,3.99,Background Noise,No_Termite
+93,15321.18,0.3647,0.2393,-9.67,8.13,Background Noise,No_Termite
+94,3995.98,0.3308,0.2255,-5.62,0.08,Background Noise,No_Termite
+95,18547.99,0.4685,0.0944,-8.17,0.6,Background Noise,No_Termite
+96,2939.38,0.6883,0.6818,14.86,12.12,Excavating,Termite
+97,6295.02,0.3638,0.0754,-2.56,6.1,Background Noise,No_Termite
+98,2220.92,0.6316,0.5151,18.6,22.03,Feeding,Termite
+99,5889.47,0.9833,0.4901,20.73,11.41,Feeding,Termite
+100,912.42,0.9781,0.561,21.02,20.83,Excavating,Termite
+101,1684.24,0.8249,0.4466,21.48,13.18,Alarm/Drumming,Termite
+102,18010.46,0.1337,0.1973,-5.05,3.53,Background Noise,No_Termite
+103,2271.21,0.593,0.5743,12.94,20.01,Alarm/Drumming,Termite
+104,11773.51,0.3737,0.2171,-6.1,1.68,Background Noise,No_Termite
+105,2004.72,0.3281,0.1557,-0.16,0.24,Background Noise,No_Termite
+106,4213.61,0.7735,0.7927,6.0,19.86,Feeding,Termite
+107,4341.03,0.8729,0.6155,24.81,15.7,Excavating,Termite
+108,2655.05,0.3677,0.1488,-5.07,1.04,Background Noise,No_Termite
+109,1313.75,0.6363,0.394,7.99,27.35,Feeding,Termite
+110,1159.53,0.5804,0.6802,8.14,17.98,Feeding,Termite
+111,8860.75,0.7898,0.3946,10.33,21.27,Excavating,Termite
+112,9944.32,0.801,0.6384,13.23,21.55,Excavating,Termite
+113,1296.83,0.4797,0.0521,2.42,5.62,Background Noise,No_Termite
+114,4098.58,0.0664,0.1181,3.61,5.36,Background Noise,No_Termite
+115,7016.67,0.4018,0.2325,-5.78,6.65,Background Noise,No_Termite
+116,8046.39,0.4964,0.2325,-0.28,1.52,Background Noise,No_Termite
+117,16856.46,0.3193,0.0314,3.59,5.21,Background Noise,No_Termite
+118,8347.64,0.8689,0.2217,9.67,24.55,Feeding,Termite
+119,5335.94,0.0621,0.2349,-0.03,3.6,Background Noise,No_Termite
+120,6179.93,0.2347,0.1541,-0.72,3.97,Background Noise,No_Termite
+121,18395.9,0.4962,0.2143,-6.25,4.97,Background Noise,No_Termite
+122,18618.84,0.4124,0.1013,5.8,1.16,Background Noise,No_Termite
+123,3417.78,0.6871,0.2486,11.87,21.85,Alarm/Drumming,Termite
+124,7102.04,0.989,0.5846,21.09,13.65,Feeding,Termite
+125,8689.14,0.7692,0.5638,19.83,28.07,Feeding,Termite
+126,5274.38,0.6159,0.4205,4.5,14.97,Feeding,Termite
+127,613.66,0.4823,0.1419,7.38,1.35,Background Noise,No_Termite
+128,8706.71,0.2629,0.1155,-8.1,3.12,Background Noise,No_Termite
+129,2552.36,0.8426,0.2912,4.35,20.49,Excavating,Termite
+130,15637.16,0.0479,0.2488,-8.96,4.6,Background Noise,No_Termite
+131,9844.95,0.614,0.2728,9.67,10.98,Excavating,Termite
+132,7075.53,0.7792,0.798,20.91,6.56,Feeding,Termite
+133,3409.41,0.7872,0.4557,5.88,20.6,Excavating,Termite
+134,2349.35,0.7155,0.4485,21.21,12.92,Alarm/Drumming,Termite
+135,14698.93,0.0253,0.1099,-1.34,7.69,Background Noise,No_Termite
+136,2968.23,0.6117,0.5212,7.73,24.01,Feeding,Termite
+137,341.2,0.4884,0.2024,7.27,2.41,Background Noise,No_Termite
+138,9808.3,0.283,0.1191,5.2,1.1,Background Noise,No_Termite
+139,5138.29,0.6961,0.6424,13.47,8.75,Feeding,Termite
+140,7580.18,0.2405,0.1984,6.06,3.94,Background Noise,No_Termite
+141,19111.16,0.1714,0.1752,-2.12,7.87,Background Noise,No_Termite
+142,8488.28,0.9558,0.4769,17.02,5.96,Feeding,Termite
+143,9003.62,0.8263,0.24,14.4,20.92,Excavating,Termite
+144,7505.62,0.8561,0.225,4.87,17.81,Feeding,Termite
+145,1184.8,0.5554,0.7739,19.23,6.78,Excavating,Termite
+146,3317.09,0.8986,0.5968,7.07,13.74,Feeding,Termite
+147,3564.78,0.3369,0.1934,-5.23,0.98,Background Noise,No_Termite
+148,516.8,0.4846,0.0809,3.85,0.82,Background Noise,No_Termite
+149,4128.43,0.6046,0.569,20.04,10.14,Excavating,Termite
+150,5537.87,0.9858,0.6792,9.44,6.05,Excavating,Termite
+151,19601.41,0.2996,0.1895,4.61,6.02,Background Noise,No_Termite
+152,1716.91,0.9676,0.3348,11.19,13.46,Excavating,Termite
+153,4674.35,0.9744,0.3444,5.67,20.32,Feeding,Termite
+154,8925.79,0.6787,0.6896,21.95,21.15,Feeding,Termite
+155,16945.64,0.1411,0.1912,-1.71,9.19,Background Noise,No_Termite
+156,3185.47,0.8453,0.3065,14.99,21.65,Alarm/Drumming,Termite
+157,19694.93,0.0407,0.0496,-7.63,9.37,Background Noise,No_Termite
+158,14547.0,0.1225,0.1314,5.13,8.18,Background Noise,No_Termite
+159,5651.25,0.7788,0.3785,15.43,19.76,Excavating,Termite
+160,13808.82,0.3254,0.1927,-7.12,8.73,Background Noise,No_Termite
+161,588.65,0.8769,0.7951,5.18,11.17,Excavating,Termite
+162,8089.74,0.1179,0.1432,3.2,8.0,Background Noise,No_Termite
+163,12358.11,0.1906,0.1981,-0.02,1.88,Background Noise,No_Termite
+164,204.07,0.0369,0.189,-6.36,7.61,Background Noise,No_Termite
+165,2103.82,0.617,0.3834,22.29,14.9,Alarm/Drumming,Termite
+166,19927.05,0.2353,0.1833,5.95,3.68,Background Noise,No_Termite
+167,4219.49,0.863,0.2019,16.63,15.32,Excavating,Termite
+168,8044.87,0.8147,0.4886,17.13,7.32,Feeding,Termite
+169,6009.85,0.8023,0.5621,17.88,19.04,Feeding,Termite
+170,16119.28,0.416,0.1296,-8.61,2.7,Background Noise,No_Termite
+171,1265.16,0.3968,0.1798,4.2,3.34,Background Noise,No_Termite
+172,4681.89,0.6977,0.4604,4.95,8.69,Excavating,Termite
+173,4490.18,0.3731,0.2496,6.8,5.98,Background Noise,No_Termite
+174,4501.86,0.9035,0.271,12.02,20.9,Excavating,Termite
+175,16812.07,0.2945,0.1511,-6.68,3.84,Background Noise,No_Termite
+176,3677.86,0.5609,0.699,9.01,5.65,Feeding,Termite
+177,10409.77,0.4715,0.0722,-2.27,2.99,Background Noise,No_Termite
+178,3525.8,0.9112,0.4749,13.63,12.79,Alarm/Drumming,Termite
+179,2756.25,0.3694,0.1292,-2.14,0.81,Background Noise,No_Termite
+180,7772.37,0.8246,0.2812,19.53,8.97,Excavating,Termite
+181,9587.84,0.5757,0.3693,8.76,6.72,Excavating,Termite
+182,9109.42,0.6724,0.6556,12.89,11.24,Feeding,Termite
+183,15556.54,0.254,0.0181,-8.87,0.65,Background Noise,No_Termite
+184,18138.11,0.2756,0.1087,-3.75,1.39,Background Noise,No_Termite
+185,1065.47,0.9835,0.5361,23.61,19.96,Alarm/Drumming,Termite
+186,1139.93,0.1449,0.1854,7.66,4.19,Background Noise,No_Termite
+187,5204.95,0.1151,0.1457,-1.65,6.54,Background Noise,No_Termite
+188,19442.91,0.1878,0.0374,-7.28,6.09,Background Noise,No_Termite
+189,4583.81,0.4283,0.1447,-0.58,2.51,Background Noise,No_Termite
+190,8671.33,0.5805,0.6247,14.96,23.07,Feeding,Termite
+191,4853.86,0.6246,0.7674,21.7,17.12,Feeding,Termite
+192,13413.54,0.2176,0.1662,-0.18,4.62,Background Noise,No_Termite
+193,1339.23,0.4071,0.1202,-9.06,5.13,Background Noise,No_Termite
+194,15746.94,0.1441,0.0495,-4.06,2.01,Background Noise,No_Termite
+195,5434.17,0.945,0.7277,22.15,10.12,Excavating,Termite
+196,4786.77,0.8974,0.2163,4.43,29.62,Feeding,Termite
+197,9332.23,0.2786,0.1295,-8.1,9.09,Background Noise,No_Termite
+198,13169.92,0.2026,0.1961,7.36,8.22,Background Noise,No_Termite
+199,4154.95,0.1578,0.2003,0.4,5.23,Background Noise,No_Termite
+200,12728.19,0.2101,0.2296,-0.41,7.98,Background Noise,No_Termite
+201,3243.3,0.4008,0.086,5.43,6.96,Background Noise,No_Termite
+202,1830.71,0.6133,0.3212,7.05,24.75,Alarm/Drumming,Termite
+203,2962.88,0.7481,0.5692,4.84,12.28,Alarm/Drumming,Termite
+204,17660.09,0.2625,0.2421,-2.48,8.04,Background Noise,No_Termite
+205,19683.8,0.3246,0.0498,5.87,6.68,Background Noise,No_Termite
+206,2041.22,0.8019,0.5164,18.83,5.32,Feeding,Termite
+207,1238.22,0.6343,0.7149,21.02,20.97,Alarm/Drumming,Termite
+208,10861.8,0.1709,0.1231,4.79,7.1,Background Noise,No_Termite
+209,3899.08,0.9227,0.4011,6.82,17.36,Excavating,Termite
+210,8346.79,0.6579,0.2852,10.65,7.52,Excavating,Termite
+211,9061.98,0.3326,0.159,-3.66,7.49,Background Noise,No_Termite
+212,16844.81,0.49,0.1622,-7.73,4.71,Background Noise,No_Termite
+213,13555.93,0.3494,0.0267,-6.85,3.25,Background Noise,No_Termite
+214,1681.54,0.6757,0.5857,18.27,22.56,Alarm/Drumming,Termite
+215,10301.83,0.1221,0.018,-4.53,3.05,Background Noise,No_Termite
+216,9413.9,0.8947,0.6731,17.63,26.78,Excavating,Termite
+217,9118.35,0.8022,0.2666,12.84,21.77,Feeding,Termite
+218,9261.13,0.2824,0.1013,7.58,8.65,Background Noise,No_Termite
+219,2303.34,0.0402,0.1876,6.53,4.23,Background Noise,No_Termite
+220,5672.74,0.1603,0.2286,3.57,8.58,Background Noise,No_Termite
+221,16117.64,0.4821,0.1844,-4.51,0.18,Background Noise,No_Termite
+222,16604.95,0.4389,0.037,2.67,2.82,Background Noise,No_Termite
+223,1417.08,0.5556,0.4813,9.63,11.05,Excavating,Termite
+224,3323.76,0.8844,0.2289,22.86,12.5,Excavating,Termite
+225,3003.41,0.9515,0.3112,4.74,18.9,Alarm/Drumming,Termite
+226,8048.49,0.8123,0.7973,21.83,5.87,Feeding,Termite
+227,10476.77,0.4191,0.1538,-7.93,0.64,Background Noise,No_Termite
+228,9141.45,0.9232,0.7274,15.58,21.73,Feeding,Termite
+229,10397.18,0.1721,0.1143,3.93,4.3,Background Noise,No_Termite
+230,12078.28,0.2328,0.1557,1.36,8.93,Background Noise,No_Termite
+231,11874.77,0.134,0.133,-8.12,7.03,Background Noise,No_Termite
+232,7751.78,0.3331,0.2381,0.81,4.88,Background Noise,No_Termite
+233,14897.52,0.3244,0.027,-5.42,5.06,Background Noise,No_Termite
+234,4988.69,0.613,0.3661,24.37,6.14,Feeding,Termite
+235,5079.39,0.8249,0.3684,7.55,9.9,Feeding,Termite
+236,10379.8,0.0237,0.0626,-9.34,0.06,Background Noise,No_Termite
+237,3719.18,0.8074,0.5076,9.46,25.06,Feeding,Termite
+238,2191.05,0.8277,0.2683,10.59,11.31,Alarm/Drumming,Termite
+239,10197.5,0.2569,0.1785,7.87,8.74,Background Noise,No_Termite
+240,3109.95,0.7398,0.4466,22.97,14.86,Feeding,Termite
+241,14309.25,0.1685,0.2077,7.19,6.08,Background Noise,No_Termite
+242,16441.85,0.3255,0.0223,-5.36,0.02,Background Noise,No_Termite
+243,1284.54,0.3496,0.0375,-3.09,6.04,Background Noise,No_Termite
+244,4006.0,0.7385,0.6507,4.56,8.03,Excavating,Termite
+245,3870.33,0.8509,0.6072,10.96,28.54,Feeding,Termite
+246,11913.85,0.3253,0.2292,1.03,0.1,Background Noise,No_Termite
+247,3171.92,0.9561,0.2399,14.75,11.81,Alarm/Drumming,Termite
+248,2928.53,0.2226,0.0808,-1.25,0.12,Background Noise,No_Termite
+249,11586.28,0.079,0.1441,-3.82,0.44,Background Noise,No_Termite
+250,14610.55,0.4259,0.1762,-2.26,6.52,Background Noise,No_Termite
+251,3116.12,0.905,0.4679,20.56,12.66,Excavating,Termite
+252,3572.69,0.7439,0.3913,15.81,23.75,Alarm/Drumming,Termite
+253,7486.33,0.3587,0.1752,-3.26,6.01,Background Noise,No_Termite
+254,4590.03,0.9505,0.4075,6.4,8.56,Feeding,Termite
+255,6635.31,0.7033,0.243,12.01,20.92,Feeding,Termite
+256,6293.23,0.3108,0.0975,-6.08,6.77,Background Noise,No_Termite
+257,19761.92,0.3504,0.0437,-1.26,4.54,Background Noise,No_Termite
+258,647.98,0.4827,0.1022,-9.3,5.05,Background Noise,No_Termite
+259,716.02,0.0968,0.0156,3.61,3.88,Background Noise,No_Termite
+260,3247.83,0.6023,0.7736,9.91,27.5,Excavating,Termite
+261,17779.23,0.4168,0.2462,-4.81,6.03,Background Noise,No_Termite
+262,19226.6,0.205,0.0917,-0.25,3.89,Background Noise,No_Termite
+263,5760.26,0.8929,0.7002,12.69,18.54,Feeding,Termite
+264,6116.43,0.1134,0.0238,-3.84,2.59,Background Noise,No_Termite
+265,5477.93,0.2877,0.0933,0.45,9.66,Background Noise,No_Termite
+266,2870.01,0.3206,0.1273,-2.77,4.44,Background Noise,No_Termite
+267,19877.58,0.3192,0.1467,1.17,8.8,Background Noise,No_Termite
+268,4106.11,0.0389,0.1241,-0.23,3.95,Background Noise,No_Termite
+269,9658.27,0.875,0.52,22.14,27.74,Feeding,Termite
+270,8009.84,0.9074,0.3655,22.3,8.12,Feeding,Termite
+271,18886.44,0.2421,0.2454,-1.3,1.49,Background Noise,No_Termite
+272,17284.6,0.2002,0.0786,-6.34,5.89,Background Noise,No_Termite
+273,15259.78,0.2654,0.1282,0.39,3.87,Background Noise,No_Termite
+274,17324.99,0.2156,0.2086,3.76,9.81,Background Noise,No_Termite
+275,11513.23,0.1162,0.0362,5.37,9.56,Background Noise,No_Termite
+276,8839.08,0.4487,0.025,5.9,8.47,Background Noise,No_Termite
+277,9021.55,0.3208,0.2323,-9.66,5.1,Background Noise,No_Termite
+278,9589.19,0.3669,0.1762,-7.58,6.88,Background Noise,No_Termite
+279,6057.97,0.4061,0.0769,-6.21,3.59,Background Noise,No_Termite
+280,19153.22,0.499,0.1724,4.91,0.09,Background Noise,No_Termite
+281,5962.93,0.3742,0.2102,3.33,0.14,Background Noise,No_Termite
+282,7657.57,0.8463,0.6597,21.61,24.22,Feeding,Termite
+283,1341.74,0.5849,0.4445,11.96,17.19,Excavating,Termite
+284,3813.8,0.9137,0.7686,4.59,7.77,Feeding,Termite
+285,19106.79,0.1638,0.0284,-0.99,5.23,Background Noise,No_Termite
+286,7217.32,0.5828,0.4417,9.5,6.26,Excavating,Termite
+287,3169.54,0.9682,0.4431,22.93,25.09,Feeding,Termite
+288,6497.76,0.1285,0.1637,7.62,4.76,Background Noise,No_Termite
+289,3899.23,0.6053,0.7332,14.07,21.2,Excavating,Termite
+290,9042.06,0.3199,0.0272,2.29,5.86,Background Noise,No_Termite
+291,7282.55,0.9118,0.5315,14.44,25.56,Feeding,Termite
+292,7865.79,0.7735,0.3706,5.94,11.79,Feeding,Termite
+293,12628.2,0.3793,0.0862,-10.0,0.54,Background Noise,No_Termite
+294,945.09,0.8681,0.2376,21.47,11.9,Excavating,Termite
+295,2844.83,0.6923,0.2611,10.93,23.52,Feeding,Termite
+296,5480.83,0.1704,0.1993,6.05,8.43,Background Noise,No_Termite
+297,8732.97,0.2011,0.2414,-8.39,9.1,Background Noise,No_Termite
+298,5191.23,0.8347,0.6223,3.1,14.69,Excavating,Termite
+299,3422.37,0.3399,0.2419,3.7,7.13,Background Noise,No_Termite
+300,3107.62,0.5974,0.6691,17.17,14.47,Alarm/Drumming,Termite
+301,3920.48,0.7752,0.4596,13.07,28.92,Feeding,Termite
+302,4256.77,0.1975,0.0226,3.82,3.69,Background Noise,No_Termite
+303,8388.44,0.4282,0.0609,1.83,8.22,Background Noise,No_Termite
+304,9498.41,0.1236,0.1727,0.94,8.8,Background Noise,No_Termite
+305,5976.5,0.3328,0.1873,-4.32,1.37,Background Noise,No_Termite
+306,12932.17,0.3623,0.0578,6.02,3.95,Background Noise,No_Termite
+307,5819.45,0.0479,0.0368,-0.71,3.68,Background Noise,No_Termite
+308,8437.06,0.7206,0.4024,3.43,5.37,Feeding,Termite
+309,2574.93,0.2566,0.107,-0.44,4.14,Background Noise,No_Termite
+310,594.28,0.9836,0.5114,17.91,16.6,Excavating,Termite
+311,7852.92,0.7846,0.7856,5.76,24.32,Feeding,Termite
+312,7816.5,0.6041,0.3593,3.39,25.18,Feeding,Termite
+313,7844.85,0.7066,0.423,3.03,17.95,Feeding,Termite
+314,6066.03,0.4876,0.2133,-9.58,6.46,Background Noise,No_Termite
+315,17981.36,0.3946,0.1199,-2.84,7.83,Background Noise,No_Termite
+316,6128.02,0.1296,0.0692,-1.29,0.66,Background Noise,No_Termite
+317,5001.19,0.981,0.7656,20.27,6.45,Excavating,Termite
+318,2633.45,0.584,0.4194,7.96,24.44,Alarm/Drumming,Termite
+319,1837.63,0.9016,0.547,6.23,20.56,Feeding,Termite
+320,2907.86,0.8534,0.3559,10.59,15.82,Alarm/Drumming,Termite
+321,18357.97,0.2456,0.2236,2.74,2.91,Background Noise,No_Termite
+322,1337.84,0.0238,0.1614,-1.94,1.47,Background Noise,No_Termite
+323,2772.07,0.2742,0.0681,-0.99,9.58,Background Noise,No_Termite
+324,1224.27,0.9131,0.4758,15.02,11.87,Excavating,Termite
+325,8713.04,0.0996,0.1169,-6.23,0.44,Background Noise,No_Termite
+326,1094.58,0.491,0.2004,5.37,8.44,Background Noise,No_Termite
+327,4915.34,0.1145,0.2383,7.91,9.61,Background Noise,No_Termite
+328,14263.28,0.2934,0.0723,-2.13,9.81,Background Noise,No_Termite
+329,1194.27,0.9915,0.3141,20.44,20.56,Excavating,Termite
+330,3831.1,0.7847,0.7864,19.66,24.4,Alarm/Drumming,Termite
+331,5030.55,0.6613,0.5844,17.67,22.96,Feeding,Termite
+332,3337.72,0.3904,0.1297,-9.78,5.65,Background Noise,No_Termite
+333,3891.78,0.6529,0.5806,7.89,28.15,Feeding,Termite
+334,8556.4,0.5929,0.4572,3.64,23.22,Feeding,Termite
+335,6793.12,0.68,0.4387,23.23,7.96,Excavating,Termite
+336,1134.73,0.7173,0.4355,19.59,21.42,Alarm/Drumming,Termite
+337,18376.69,0.297,0.0957,4.18,9.51,Background Noise,No_Termite
+338,5094.93,0.1921,0.1676,-5.67,5.64,Background Noise,No_Termite
+339,9223.27,0.7777,0.3325,3.86,7.55,Feeding,Termite
+340,2164.61,0.6771,0.7703,15.8,26.67,Feeding,Termite
+341,6010.84,0.8914,0.3695,10.77,17.92,Feeding,Termite
+342,3839.37,0.7388,0.6682,13.48,23.39,Alarm/Drumming,Termite
+343,2444.46,0.6338,0.3989,21.81,19.78,Excavating,Termite
+344,1176.0,0.9734,0.5042,12.01,6.73,Feeding,Termite
+345,3507.48,0.8621,0.6627,17.4,14.98,Alarm/Drumming,Termite
+346,3116.74,0.2788,0.0778,-2.35,8.76,Background Noise,No_Termite
+347,847.66,0.3875,0.01,-2.5,1.28,Background Noise,No_Termite
+348,1019.03,0.6518,0.3825,9.69,29.33,Excavating,Termite
+349,514.0,0.9851,0.3346,17.59,23.23,Feeding,Termite
+350,14863.74,0.2229,0.0827,-4.14,8.48,Background Noise,No_Termite
+351,14281.16,0.1072,0.099,6.23,8.17,Background Noise,No_Termite
+352,16153.2,0.382,0.1044,0.63,9.85,Background Noise,No_Termite
+353,13254.18,0.2814,0.1802,-6.99,0.78,Background Noise,No_Termite
+354,6045.84,0.5691,0.3592,16.23,28.81,Excavating,Termite
+355,7287.03,0.5961,0.5083,14.2,23.98,Feeding,Termite
+356,7448.69,0.4172,0.1773,2.86,9.33,Background Noise,No_Termite
+357,9249.45,0.878,0.717,9.03,22.36,Excavating,Termite
+358,16160.71,0.1858,0.0905,7.61,1.95,Background Noise,No_Termite
+359,17145.09,0.369,0.1449,7.05,7.01,Background Noise,No_Termite
+360,9975.55,0.0983,0.1987,3.22,3.81,Background Noise,No_Termite
+361,739.34,0.5551,0.6222,24.35,25.97,Feeding,Termite
+362,8809.46,0.3583,0.2061,-0.16,2.35,Background Noise,No_Termite
+363,1155.01,0.8733,0.7176,6.94,17.57,Alarm/Drumming,Termite
+364,16020.07,0.2103,0.0416,5.58,5.53,Background Noise,No_Termite
+365,3229.74,0.1592,0.2191,2.11,3.1,Background Noise,No_Termite
+366,2879.45,0.8073,0.6997,22.93,20.62,Excavating,Termite
+367,341.92,0.0449,0.1417,-4.82,6.74,Background Noise,No_Termite
+368,6204.85,0.3182,0.0902,3.19,3.53,Background Noise,No_Termite
+369,1149.36,0.6786,0.4597,18.08,24.59,Feeding,Termite
+370,1037.56,0.975,0.585,17.77,14.35,Feeding,Termite
+371,2390.43,0.8879,0.2608,9.11,15.46,Excavating,Termite
+372,4604.18,0.5804,0.5112,6.95,29.51,Feeding,Termite
+373,1339.91,0.882,0.6227,12.3,16.05,Alarm/Drumming,Termite
+374,6995.83,0.1469,0.0593,-1.31,3.98,Background Noise,No_Termite
+375,3230.89,0.9858,0.5622,4.69,21.42,Feeding,Termite
+376,9538.52,0.5914,0.5594,16.72,12.43,Feeding,Termite
+377,13005.25,0.0273,0.2416,-5.48,2.67,Background Noise,No_Termite
+378,7212.98,0.6908,0.3627,16.15,20.25,Excavating,Termite
+379,17335.3,0.0708,0.0472,7.01,9.47,Background Noise,No_Termite
+380,8888.44,0.8144,0.6207,17.96,10.07,Excavating,Termite
+381,646.25,0.6639,0.4702,24.07,19.57,Feeding,Termite
+382,8040.8,0.1105,0.1714,7.59,8.4,Background Noise,No_Termite
+383,2127.67,0.2281,0.0322,3.47,0.08,Background Noise,No_Termite
+384,18299.52,0.1442,0.1143,3.02,4.34,Background Noise,No_Termite
+385,280.18,0.3144,0.163,-5.64,5.89,Background Noise,No_Termite
+386,14309.65,0.1156,0.2206,3.3,0.91,Background Noise,No_Termite
+387,2859.57,0.6719,0.3485,4.38,10.36,Feeding,Termite
+388,7460.97,0.8528,0.2487,23.93,20.17,Excavating,Termite
+389,16785.99,0.415,0.2339,-0.2,8.05,Background Noise,No_Termite
+390,4085.61,0.3766,0.1871,-0.61,6.17,Background Noise,No_Termite
+391,1462.33,0.462,0.1503,-0.31,3.71,Background Noise,No_Termite
+392,4000.26,0.8499,0.6724,13.0,27.38,Feeding,Termite
+393,2859.64,0.7424,0.4655,17.29,22.64,Excavating,Termite
+394,18731.98,0.4159,0.0802,-2.01,0.64,Background Noise,No_Termite
+395,3359.94,0.5753,0.4947,23.4,17.57,Feeding,Termite
+396,2197.33,0.2166,0.1672,-5.32,7.64,Background Noise,No_Termite
+397,3273.9,0.0538,0.0546,1.96,1.6,Background Noise,No_Termite
+398,3442.38,0.5997,0.3735,9.82,20.28,Alarm/Drumming,Termite
+399,5074.14,0.2771,0.0957,-3.63,5.15,Background Noise,No_Termite
+400,16588.26,0.1677,0.2293,7.15,7.89,Background Noise,No_Termite
+401,3867.04,0.9735,0.7258,5.26,17.64,Feeding,Termite
+402,7915.34,0.2615,0.0565,5.46,5.53,Background Noise,No_Termite
+403,13571.12,0.4322,0.1896,-2.09,8.38,Background Noise,No_Termite
+404,12249.88,0.3433,0.053,2.49,1.6,Background Noise,No_Termite
+405,1616.74,0.5509,0.6312,19.11,9.13,Feeding,Termite
+406,10347.17,0.0601,0.0146,-7.02,1.61,Background Noise,No_Termite
+407,1724.61,0.5974,0.3334,14.42,15.31,Alarm/Drumming,Termite
+408,2830.85,0.726,0.3405,7.83,6.44,Excavating,Termite
+409,19201.27,0.2873,0.1098,-2.28,6.16,Background Noise,No_Termite
+410,7116.08,0.6273,0.5001,12.06,22.55,Excavating,Termite
+411,2894.26,0.6019,0.5634,5.58,17.99,Alarm/Drumming,Termite
+412,6810.41,0.3522,0.0595,-2.95,1.43,Background Noise,No_Termite
+413,17923.93,0.2637,0.1106,-9.67,2.04,Background Noise,No_Termite
+414,15875.89,0.2476,0.1446,1.31,0.69,Background Noise,No_Termite
+415,13803.77,0.0248,0.1836,-0.36,2.53,Background Noise,No_Termite
+416,3464.17,0.7683,0.4002,20.41,22.65,Alarm/Drumming,Termite
+417,2242.7,0.9472,0.4798,4.67,26.37,Excavating,Termite
+418,8133.61,0.6416,0.2402,22.3,27.54,Feeding,Termite
+419,7849.16,0.4847,0.026,1.67,5.42,Background Noise,No_Termite
+420,1574.7,0.4058,0.114,7.95,3.75,Background Noise,No_Termite
+421,11225.28,0.1257,0.0941,-3.29,3.21,Background Noise,No_Termite
+422,1467.4,0.2428,0.1835,1.82,3.7,Background Noise,No_Termite
+423,579.45,0.8478,0.4904,3.12,10.44,Excavating,Termite
+424,3318.43,0.5799,0.6599,15.84,18.23,Alarm/Drumming,Termite
+425,7641.6,0.7831,0.2842,17.77,25.08,Excavating,Termite
+426,12447.43,0.1015,0.0568,6.03,7.42,Background Noise,No_Termite
+427,9128.17,0.8187,0.5925,22.56,23.97,Excavating,Termite
+428,11618.25,0.0951,0.1237,2.9,6.32,Background Noise,No_Termite
+429,2421.41,0.6587,0.3289,12.35,12.85,Feeding,Termite
+430,2521.18,0.5846,0.6177,11.42,12.82,Alarm/Drumming,Termite
+431,2978.53,0.6724,0.6154,8.81,21.94,Alarm/Drumming,Termite
+432,18787.46,0.1758,0.0747,-6.56,6.36,Background Noise,No_Termite
+433,13923.36,0.3057,0.0735,1.92,2.19,Background Noise,No_Termite
+434,3334.08,0.6345,0.253,18.38,21.41,Alarm/Drumming,Termite
+435,4607.29,0.6668,0.2202,22.34,5.78,Feeding,Termite
+436,4943.59,0.0387,0.17,-4.19,5.57,Background Noise,No_Termite
+437,3664.35,0.9554,0.7977,21.16,14.88,Alarm/Drumming,Termite
+438,16912.94,0.2968,0.0261,-8.29,2.49,Background Noise,No_Termite
+439,19977.96,0.3791,0.2036,5.44,3.27,Background Noise,No_Termite
+440,1724.49,0.735,0.278,3.49,10.61,Alarm/Drumming,Termite
+441,7945.51,0.6908,0.5926,8.1,19.15,Feeding,Termite
+442,386.19,0.3194,0.193,-9.3,7.64,Background Noise,No_Termite
+443,2858.58,0.8311,0.7187,15.91,18.45,Alarm/Drumming,Termite
+444,9911.45,0.749,0.6244,11.56,23.92,Excavating,Termite
+445,4654.62,0.4655,0.233,-3.85,5.97,Background Noise,No_Termite
+446,10600.78,0.4979,0.2455,1.69,2.12,Background Noise,No_Termite
+447,16107.84,0.3047,0.0228,-1.81,7.15,Background Noise,No_Termite
+448,13528.25,0.1991,0.236,-6.99,6.78,Background Noise,No_Termite
+449,7063.4,0.8419,0.3652,6.44,22.43,Excavating,Termite
+450,6193.37,0.8673,0.4731,17.69,9.48,Excavating,Termite
+451,16763.6,0.0292,0.197,0.97,1.7,Background Noise,No_Termite
+452,14022.83,0.4053,0.2406,-0.35,8.38,Background Noise,No_Termite
+453,4317.93,0.8077,0.3662,23.27,8.84,Excavating,Termite
+454,11705.5,0.1904,0.0225,-9.43,5.93,Background Noise,No_Termite
+455,1303.37,0.9464,0.7297,17.5,20.17,Feeding,Termite
+456,8698.47,0.6385,0.6425,9.3,27.15,Feeding,Termite
+457,3991.71,0.9538,0.5736,24.41,10.45,Alarm/Drumming,Termite
+458,8550.19,0.7009,0.2402,24.46,6.56,Excavating,Termite
+459,3557.64,0.5883,0.4314,4.56,24.07,Alarm/Drumming,Termite
+460,2678.97,0.6709,0.2606,6.68,16.73,Feeding,Termite
+461,9744.23,0.9855,0.4638,9.12,23.98,Feeding,Termite
+462,15986.03,0.1637,0.0658,-7.67,3.26,Background Noise,No_Termite
+463,5203.61,0.3435,0.025,-6.21,3.55,Background Noise,No_Termite
+464,16199.57,0.1845,0.2175,-7.21,1.47,Background Noise,No_Termite
+465,1746.46,0.1652,0.1452,4.47,4.85,Background Noise,No_Termite
+466,6016.64,0.6148,0.5744,9.02,17.64,Feeding,Termite
+467,1281.59,0.6879,0.6934,4.25,16.49,Excavating,Termite
+468,8430.28,0.368,0.1478,2.01,4.58,Background Noise,No_Termite
+469,8690.93,0.7921,0.7041,24.77,12.85,Excavating,Termite
+470,17801.43,0.1137,0.1275,3.35,3.71,Background Noise,No_Termite
+471,5090.22,0.7126,0.7159,11.95,25.96,Excavating,Termite
+472,6631.84,0.386,0.0402,-6.46,4.54,Background Noise,No_Termite
+473,1526.47,0.8107,0.4938,17.18,18.52,Alarm/Drumming,Termite
+474,4673.55,0.1986,0.1688,-7.46,5.53,Background Noise,No_Termite
+475,11460.46,0.1537,0.0625,-6.71,1.85,Background Noise,No_Termite
+476,16531.65,0.465,0.2428,0.28,2.86,Background Noise,No_Termite
+477,4058.21,0.7153,0.2522,15.25,24.94,Feeding,Termite
+478,16917.9,0.1041,0.1715,-6.03,7.96,Background Noise,No_Termite
+479,4442.33,0.1398,0.0732,-9.99,8.74,Background Noise,No_Termite
+480,17426.31,0.3211,0.1901,-7.26,7.93,Background Noise,No_Termite
+481,9220.64,0.065,0.1267,6.57,3.51,Background Noise,No_Termite
+482,897.18,0.1196,0.0672,6.35,2.91,Background Noise,No_Termite
+483,4929.84,0.6195,0.4924,12.46,24.01,Excavating,Termite
+484,11978.52,0.3893,0.1055,4.9,10.0,Background Noise,No_Termite
+485,3497.1,0.1181,0.0917,-0.81,0.3,Background Noise,No_Termite
+486,12341.07,0.2647,0.1303,-9.1,9.11,Background Noise,No_Termite
+487,5736.02,0.9276,0.2964,3.55,15.95,Feeding,Termite
+488,2756.05,0.8761,0.267,16.38,6.24,Feeding,Termite
+489,5692.89,0.2023,0.2023,-2.94,1.73,Background Noise,No_Termite
+490,15040.32,0.3909,0.0669,2.19,1.25,Background Noise,No_Termite
+491,9326.87,0.5798,0.2115,21.19,14.68,Excavating,Termite
+492,10542.24,0.1325,0.0928,-9.46,7.75,Background Noise,No_Termite
+493,3003.6,0.6695,0.5669,17.93,24.0,Alarm/Drumming,Termite
+494,8557.04,0.9482,0.6434,9.1,28.68,Feeding,Termite
+495,9651.92,0.8722,0.6237,16.7,5.26,Feeding,Termite
+496,1935.64,0.5855,0.4657,8.74,15.1,Alarm/Drumming,Termite
+497,6933.4,0.469,0.0546,-3.29,8.35,Background Noise,No_Termite
+498,1185.43,0.6233,0.5571,6.31,11.39,Alarm/Drumming,Termite
+499,19364.72,0.2607,0.0692,-1.52,4.47,Background Noise,No_Termite
+500,13272.08,0.3819,0.1487,6.28,7.51,Background Noise,No_Termite
+501,16366.42,0.0467,0.0117,-6.18,7.57,Background Noise,No_Termite
+502,13304.12,0.2132,0.2223,6.12,4.11,Background Noise,No_Termite
+503,1941.63,0.6722,0.3144,7.06,20.37,Alarm/Drumming,Termite
+504,6907.94,0.4189,0.0388,3.23,4.3,Background Noise,No_Termite
+505,10675.95,0.2566,0.082,0.73,2.88,Background Noise,No_Termite
+506,2061.85,0.796,0.7414,10.57,7.91,Feeding,Termite
+507,14686.7,0.4671,0.207,0.2,6.59,Background Noise,No_Termite
+508,13174.91,0.2118,0.0884,-9.81,8.98,Background Noise,No_Termite
+509,16548.37,0.0701,0.1484,-1.65,8.01,Background Noise,No_Termite
+510,2462.31,0.1231,0.0261,0.71,9.81,Background Noise,No_Termite
+511,14803.45,0.3362,0.1378,-8.14,0.32,Background Noise,No_Termite
+512,5895.76,0.9722,0.6912,24.64,12.41,Feeding,Termite
+513,5267.45,0.227,0.0934,-9.09,9.7,Background Noise,No_Termite
+514,1150.03,0.2398,0.0644,1.05,6.92,Background Noise,No_Termite
+515,5987.5,0.9206,0.6924,13.5,13.98,Feeding,Termite
+516,3944.32,0.6977,0.3254,4.86,25.14,Feeding,Termite
+517,5080.25,0.6496,0.4286,20.78,26.02,Excavating,Termite
+518,16490.11,0.2404,0.0828,6.79,3.85,Background Noise,No_Termite
+519,2461.01,0.3483,0.1376,-9.41,9.34,Background Noise,No_Termite
+520,4373.61,0.8454,0.7827,15.37,9.03,Excavating,Termite
+521,14323.59,0.2205,0.0379,1.03,0.68,Background Noise,No_Termite
+522,2985.33,0.7096,0.5304,11.87,11.15,Alarm/Drumming,Termite
+523,16689.52,0.3137,0.0996,-5.4,8.15,Background Noise,No_Termite
+524,2206.9,0.2183,0.1722,1.85,3.55,Background Noise,No_Termite
+525,1495.15,0.1073,0.0476,4.89,3.95,Background Noise,No_Termite
+526,4482.24,0.9457,0.5342,8.09,9.21,Feeding,Termite
+527,7449.12,0.6492,0.7317,23.55,28.95,Excavating,Termite
+528,2906.24,0.7314,0.6514,14.69,19.45,Alarm/Drumming,Termite
+529,4570.35,0.921,0.2879,21.32,23.29,Excavating,Termite
+530,10851.9,0.227,0.101,6.47,8.45,Background Noise,No_Termite
+531,5098.27,0.2523,0.1334,-4.45,8.44,Background Noise,No_Termite
+532,11503.54,0.0388,0.0753,-9.89,3.25,Background Noise,No_Termite
+533,19569.26,0.2097,0.1848,-3.78,9.66,Background Noise,No_Termite
+534,13454.75,0.4744,0.1061,4.1,8.05,Background Noise,No_Termite
+535,5391.98,0.0324,0.1548,1.87,9.9,Background Noise,No_Termite
+536,13792.11,0.4705,0.0535,1.21,1.2,Background Noise,No_Termite
+537,4531.25,0.2823,0.1101,-7.12,3.07,Background Noise,No_Termite
+538,4472.38,0.9541,0.2505,11.65,23.93,Feeding,Termite
+539,657.63,0.8211,0.2978,8.14,21.54,Feeding,Termite
+540,8432.0,0.611,0.3389,22.11,29.37,Feeding,Termite
+541,18536.63,0.0443,0.0195,0.33,4.2,Background Noise,No_Termite
+542,7918.61,0.3,0.0127,4.17,0.29,Background Noise,No_Termite
+543,882.45,0.729,0.7843,14.97,19.71,Feeding,Termite
+544,5577.26,0.1503,0.227,-3.26,7.09,Background Noise,No_Termite
+545,11042.38,0.2245,0.2098,4.5,0.51,Background Noise,No_Termite
+546,2647.75,0.9687,0.2572,12.9,25.43,Feeding,Termite
+547,8771.54,0.645,0.6515,4.13,7.09,Feeding,Termite
+548,9901.45,0.1805,0.1047,-0.46,4.42,Background Noise,No_Termite
+549,3311.21,0.4066,0.1924,-7.23,5.72,Background Noise,No_Termite
+550,3070.06,0.1933,0.108,2.23,2.68,Background Noise,No_Termite
+551,1227.94,0.2081,0.1773,-6.52,0.35,Background Noise,No_Termite
+552,12865.94,0.4453,0.225,-4.65,2.6,Background Noise,No_Termite
+553,4676.88,0.1355,0.1714,4.87,4.11,Background Noise,No_Termite
+554,13494.53,0.2106,0.0475,3.28,8.24,Background Noise,No_Termite
+555,7273.44,0.1499,0.0295,7.87,6.71,Background Noise,No_Termite
+556,9890.0,0.9072,0.5957,15.71,29.43,Feeding,Termite
+557,1868.32,0.8287,0.4467,12.4,17.02,Alarm/Drumming,Termite
+558,5860.2,0.6407,0.7607,18.16,26.26,Feeding,Termite
+559,16483.14,0.3942,0.0139,4.73,5.56,Background Noise,No_Termite
+560,898.76,0.4961,0.0806,-6.21,8.9,Background Noise,No_Termite
+561,15330.73,0.4355,0.0347,-7.73,2.53,Background Noise,No_Termite
+562,3021.52,0.6959,0.6059,16.07,22.7,Alarm/Drumming,Termite
+563,6984.06,0.7431,0.3656,19.91,19.38,Excavating,Termite
+564,7077.37,0.8314,0.6482,7.81,10.83,Feeding,Termite
+565,1744.25,0.9323,0.227,19.15,20.15,Feeding,Termite
+566,6892.24,0.4659,0.0897,-1.62,4.79,Background Noise,No_Termite
+567,1275.19,0.5625,0.5788,12.38,11.46,Feeding,Termite
+568,2159.15,0.8487,0.7792,4.11,12.4,Excavating,Termite
+569,17818.65,0.2907,0.1301,-8.75,5.77,Background Noise,No_Termite
+570,6208.66,0.9628,0.444,6.15,13.52,Feeding,Termite
+571,14322.9,0.2722,0.1775,6.2,2.93,Background Noise,No_Termite
+572,15864.6,0.3462,0.237,-4.68,6.76,Background Noise,No_Termite
+573,3083.57,0.8478,0.5802,16.06,10.45,Feeding,Termite
+574,423.24,0.1753,0.1696,0.02,7.29,Background Noise,No_Termite
+575,6920.35,0.0653,0.2096,6.53,1.35,Background Noise,No_Termite
+576,13030.78,0.213,0.1849,4.04,1.03,Background Noise,No_Termite
+577,500.29,0.7105,0.3527,3.28,22.8,Feeding,Termite
+578,10851.96,0.4797,0.1458,-0.74,8.51,Background Noise,No_Termite
+579,5714.29,0.8232,0.4332,8.29,14.5,Feeding,Termite
+580,3491.73,0.6296,0.7924,12.77,7.42,Feeding,Termite
+581,8799.38,0.8122,0.6875,10.19,29.89,Excavating,Termite
+582,6184.3,0.3428,0.1737,-4.33,4.03,Background Noise,No_Termite
+583,6507.76,0.8103,0.6161,18.41,8.21,Feeding,Termite
+584,8792.16,0.8786,0.5715,7.11,17.5,Excavating,Termite
+585,611.22,0.2327,0.1581,5.3,2.85,Background Noise,No_Termite
+586,1692.72,0.5986,0.4871,15.88,29.09,Feeding,Termite
+587,1317.31,0.5975,0.5514,14.98,6.43,Excavating,Termite
+588,6558.85,0.5687,0.4989,18.16,25.5,Feeding,Termite
+589,3423.82,0.9541,0.686,15.83,20.34,Feeding,Termite
+590,3965.81,0.7598,0.314,18.44,21.02,Excavating,Termite
+591,3906.91,0.5594,0.3895,4.25,27.78,Excavating,Termite
+592,15353.89,0.179,0.1722,-2.87,7.02,Background Noise,No_Termite
+593,4814.74,0.9706,0.3505,5.65,15.31,Excavating,Termite
+594,9708.56,0.5779,0.4036,14.13,14.45,Excavating,Termite
+595,3322.27,0.4989,0.1184,-3.61,6.58,Background Noise,No_Termite
+596,1593.89,0.7367,0.4324,17.51,27.08,Feeding,Termite
+597,8896.47,0.0495,0.2053,6.93,6.48,Background Noise,No_Termite
+598,9568.38,0.7648,0.5611,15.8,8.79,Excavating,Termite
+599,3711.8,0.7263,0.2976,19.16,8.17,Feeding,Termite
+600,1056.37,0.8179,0.7231,15.69,18.81,Feeding,Termite
+601,8128.61,0.5857,0.5395,22.98,18.51,Feeding,Termite
+602,3315.1,0.6182,0.4597,16.1,8.59,Feeding,Termite
+603,9425.9,0.814,0.6971,4.76,23.88,Feeding,Termite
+604,6485.88,0.9026,0.3662,23.7,25.72,Excavating,Termite
+605,8813.77,0.6297,0.6332,3.89,29.27,Feeding,Termite
+606,5404.69,0.9712,0.6034,13.59,19.52,Feeding,Termite
+607,3851.6,0.9921,0.2517,20.92,10.33,Alarm/Drumming,Termite
+608,1755.71,0.8398,0.4286,4.2,16.0,Feeding,Termite
+609,12029.28,0.2039,0.0619,-2.03,9.02,Background Noise,No_Termite
+610,1062.42,0.4166,0.1511,-3.64,8.2,Background Noise,No_Termite
+611,5769.53,0.8342,0.6706,16.17,25.65,Excavating,Termite
+612,8341.41,0.2797,0.1552,-6.03,9.58,Background Noise,No_Termite
+613,12550.45,0.1087,0.0243,0.88,5.72,Background Noise,No_Termite
+614,5472.31,0.8499,0.2481,12.72,10.67,Excavating,Termite
+615,3351.0,0.1171,0.1028,-9.08,1.84,Background Noise,No_Termite
+616,8016.09,0.252,0.1019,5.1,5.12,Background Noise,No_Termite
+617,5304.12,0.582,0.5443,15.45,6.55,Feeding,Termite
+618,2673.62,0.5719,0.2588,3.97,24.4,Alarm/Drumming,Termite
+619,3787.01,0.3299,0.0209,7.03,5.41,Background Noise,No_Termite
+620,16859.09,0.0571,0.0508,-7.72,2.97,Background Noise,No_Termite
+621,5426.34,0.7112,0.7937,18.05,11.15,Feeding,Termite
+622,1427.67,0.7996,0.2461,3.09,15.73,Alarm/Drumming,Termite
+623,6597.29,0.7703,0.4493,3.53,15.27,Excavating,Termite
+624,2182.28,0.9805,0.5596,19.03,7.46,Feeding,Termite
+625,6375.74,0.1337,0.0333,-6.78,3.93,Background Noise,No_Termite
+626,6936.69,0.7638,0.7535,4.6,18.67,Excavating,Termite
+627,3824.41,0.9966,0.3444,22.23,24.56,Feeding,Termite
+628,16629.39,0.2117,0.1083,7.61,2.25,Background Noise,No_Termite
+629,8092.0,0.8789,0.452,15.72,13.35,Feeding,Termite
+630,3412.5,0.5768,0.6152,6.08,23.0,Alarm/Drumming,Termite
+631,8374.79,0.2133,0.1347,7.94,5.49,Background Noise,No_Termite
+632,2790.82,0.2101,0.0419,-7.14,6.75,Background Noise,No_Termite
+633,18990.53,0.4554,0.248,-6.25,8.8,Background Noise,No_Termite
+634,7173.24,0.2522,0.1104,-3.56,6.69,Background Noise,No_Termite
+635,5968.14,0.7623,0.5321,15.55,9.04,Excavating,Termite
+636,7551.58,0.7097,0.6681,15.41,5.63,Feeding,Termite
+637,5297.13,0.2923,0.2011,3.23,6.95,Background Noise,No_Termite
+638,5137.69,0.6676,0.4515,16.18,8.33,Excavating,Termite
+639,3237.75,0.7733,0.3714,19.16,5.16,Excavating,Termite
+640,6055.86,0.6285,0.483,5.01,28.54,Feeding,Termite
+641,5730.05,0.7846,0.7379,7.32,15.18,Excavating,Termite
+642,8685.82,0.9508,0.5582,20.82,19.43,Feeding,Termite
+643,7623.67,0.8075,0.3085,8.91,27.83,Feeding,Termite
+644,2845.14,0.7998,0.5528,12.38,12.66,Feeding,Termite
+645,1274.96,0.6273,0.5108,7.71,7.19,Excavating,Termite
+646,5737.36,0.4097,0.0133,1.69,4.0,Background Noise,No_Termite
+647,13410.64,0.4677,0.0148,-7.23,7.99,Background Noise,No_Termite
+648,17734.81,0.291,0.1691,2.22,4.59,Background Noise,No_Termite
+649,18641.63,0.3657,0.0789,5.84,9.97,Background Noise,No_Termite
+650,2695.27,0.6653,0.3324,6.04,27.43,Feeding,Termite
+651,2500.17,0.6576,0.6548,19.72,20.12,Alarm/Drumming,Termite
+652,6320.7,0.1207,0.2444,1.62,4.11,Background Noise,No_Termite
+653,18697.42,0.3953,0.1938,2.45,3.03,Background Noise,No_Termite
+654,19316.22,0.0827,0.1712,3.13,3.94,Background Noise,No_Termite
+655,2464.77,0.6905,0.4565,17.19,17.61,Excavating,Termite
+656,2706.13,0.6711,0.3192,20.23,15.13,Excavating,Termite
+657,2110.7,0.9536,0.7077,7.02,21.27,Alarm/Drumming,Termite
+658,2130.03,0.5781,0.4917,5.4,15.09,Alarm/Drumming,Termite
+659,5045.94,0.4082,0.2201,-4.56,3.17,Background Noise,No_Termite
+660,17188.09,0.387,0.0452,2.43,8.57,Background Noise,No_Termite
+661,3047.62,0.7753,0.5874,14.23,14.97,Alarm/Drumming,Termite
+662,2487.06,0.4052,0.2167,-7.53,3.12,Background Noise,No_Termite
+663,19052.5,0.3379,0.1904,4.62,3.29,Background Noise,No_Termite
+664,1938.76,0.6093,0.623,19.32,22.88,Alarm/Drumming,Termite
+665,2896.99,0.626,0.2322,18.78,26.83,Excavating,Termite
+666,8566.43,0.6257,0.7019,15.08,14.58,Excavating,Termite
+667,7343.65,0.8219,0.4765,21.23,17.78,Feeding,Termite
+668,3128.17,0.9275,0.6026,18.33,11.58,Alarm/Drumming,Termite
+669,8853.16,0.6007,0.4447,22.5,23.13,Feeding,Termite
+670,9633.46,0.8341,0.3623,8.47,21.98,Feeding,Termite
+671,1894.82,0.7269,0.2836,3.24,21.63,Alarm/Drumming,Termite
+672,10930.72,0.1972,0.0957,-3.81,9.76,Background Noise,No_Termite
+673,4686.32,0.7775,0.5047,6.04,27.0,Excavating,Termite
+674,19656.52,0.0552,0.1692,0.72,2.5,Background Noise,No_Termite
+675,4510.83,0.6381,0.6922,17.27,24.63,Feeding,Termite
+676,8437.5,0.1432,0.1905,-0.77,4.58,Background Noise,No_Termite
+677,6162.48,0.7459,0.7524,10.59,29.89,Feeding,Termite
+678,2440.3,0.6488,0.2001,23.13,15.47,Feeding,Termite
+679,16893.2,0.1006,0.0389,-8.78,7.42,Background Noise,No_Termite
+680,14508.18,0.2267,0.0386,-0.78,9.29,Background Noise,No_Termite
+681,7041.75,0.3182,0.1825,-8.01,3.75,Background Noise,No_Termite
+682,9946.14,0.5742,0.3139,3.86,10.82,Feeding,Termite
+683,8122.82,0.7499,0.6054,14.2,13.53,Feeding,Termite
+684,17242.77,0.0248,0.1967,-1.71,8.66,Background Noise,No_Termite
+685,19777.93,0.4937,0.1911,-5.53,4.83,Background Noise,No_Termite
+686,10814.06,0.4316,0.0334,2.71,9.92,Background Noise,No_Termite
+687,6977.03,0.2137,0.0663,4.74,0.07,Background Noise,No_Termite
+688,8361.48,0.6885,0.3447,8.14,5.01,Feeding,Termite
+689,1456.91,0.2867,0.0799,-2.49,1.87,Background Noise,No_Termite
+690,8821.1,0.7718,0.3981,5.35,27.63,Feeding,Termite
+691,1180.68,0.6841,0.3922,6.61,14.46,Alarm/Drumming,Termite
+692,1663.73,0.6057,0.2423,23.01,20.87,Excavating,Termite
+693,3883.56,0.2814,0.0287,7.2,8.21,Background Noise,No_Termite
+694,8666.63,0.9343,0.2079,14.26,9.22,Feeding,Termite
+695,9380.56,0.9188,0.7329,7.38,27.73,Excavating,Termite
+696,5755.27,0.201,0.1044,-0.2,2.89,Background Noise,No_Termite
+697,7066.84,0.6896,0.502,20.52,9.19,Feeding,Termite
+698,14815.44,0.0948,0.1413,-8.43,6.46,Background Noise,No_Termite
+699,4428.41,0.6733,0.7734,23.98,6.0,Feeding,Termite
+700,909.45,0.7265,0.7687,6.11,9.48,Feeding,Termite
+701,15293.97,0.491,0.1016,3.95,1.09,Background Noise,No_Termite
+702,6462.85,0.6157,0.7628,23.19,9.8,Feeding,Termite
+703,2876.3,0.5811,0.4009,9.9,22.12,Alarm/Drumming,Termite
+704,3881.6,0.8184,0.6886,11.41,8.71,Excavating,Termite
+705,2368.54,0.685,0.5857,16.22,10.94,Feeding,Termite
+706,13951.99,0.4155,0.059,-1.56,3.63,Background Noise,No_Termite
+707,1540.48,0.9477,0.4058,18.05,11.65,Alarm/Drumming,Termite
+708,604.44,0.1717,0.0234,0.98,6.9,Background Noise,No_Termite
+709,4174.67,0.6162,0.3788,4.97,7.01,Feeding,Termite
+710,18225.44,0.2523,0.0396,-4.46,0.06,Background Noise,No_Termite
+711,18528.59,0.4836,0.0594,3.35,1.62,Background Noise,No_Termite
+712,10978.88,0.2859,0.1383,-6.48,8.84,Background Noise,No_Termite
+713,9206.65,0.7174,0.6559,10.45,13.2,Feeding,Termite
+714,3213.78,0.9464,0.2298,8.66,18.96,Alarm/Drumming,Termite
+715,2656.3,0.9636,0.4543,10.53,23.6,Excavating,Termite
+716,19234.86,0.2547,0.0944,6.37,4.45,Background Noise,No_Termite
+717,11422.21,0.4097,0.092,-2.19,7.62,Background Noise,No_Termite
+718,16984.59,0.4011,0.2358,1.22,3.63,Background Noise,No_Termite
+719,8148.42,0.7278,0.2308,11.84,26.13,Excavating,Termite
+720,13507.75,0.3795,0.0957,1.43,4.5,Background Noise,No_Termite
+721,3809.75,0.2819,0.059,-4.75,7.49,Background Noise,No_Termite
+722,5084.71,0.9853,0.6291,24.06,10.4,Excavating,Termite
+723,5013.45,0.7863,0.6244,8.55,27.45,Feeding,Termite
+724,8989.86,0.1189,0.0102,-9.29,1.23,Background Noise,No_Termite
+725,19547.95,0.3384,0.2114,-0.09,2.42,Background Noise,No_Termite
+726,3147.58,0.3081,0.1855,3.86,7.28,Background Noise,No_Termite
+727,2720.69,0.8418,0.2411,22.74,15.12,Alarm/Drumming,Termite
+728,2475.68,0.4116,0.1534,-2.91,3.28,Background Noise,No_Termite
+729,8618.2,0.9413,0.2529,20.09,13.5,Excavating,Termite
+730,1545.45,0.6245,0.624,14.78,16.46,Alarm/Drumming,Termite
+731,2366.63,0.5687,0.3932,15.31,10.29,Excavating,Termite
+732,17172.9,0.229,0.2387,2.95,6.67,Background Noise,No_Termite
+733,18610.29,0.1443,0.0227,3.07,5.28,Background Noise,No_Termite
+734,2513.93,0.2756,0.1455,0.81,3.03,Background Noise,No_Termite
+735,4107.51,0.9864,0.6366,23.3,20.43,Feeding,Termite
+736,15268.02,0.1122,0.17,1.22,5.92,Background Noise,No_Termite
+737,5152.97,0.7005,0.5116,7.35,18.22,Excavating,Termite
+738,16122.97,0.0608,0.1147,1.85,1.86,Background Noise,No_Termite
+739,3129.16,0.7062,0.7597,23.3,18.95,Feeding,Termite
+740,3614.9,0.5665,0.4849,10.4,23.43,Excavating,Termite
+741,1036.01,0.8833,0.491,4.88,18.29,Alarm/Drumming,Termite
+742,2554.03,0.6565,0.4901,12.44,19.21,Alarm/Drumming,Termite
+743,1590.43,0.422,0.0676,-6.49,1.06,Background Noise,No_Termite
+744,10147.74,0.0497,0.1484,-7.85,7.69,Background Noise,No_Termite
+745,1001.07,0.6031,0.2271,12.63,25.85,Feeding,Termite
+746,16895.47,0.2224,0.0196,-1.92,2.62,Background Noise,No_Termite
+747,5923.62,0.692,0.264,11.07,13.31,Excavating,Termite
+748,2079.94,0.4838,0.2428,5.57,7.67,Background Noise,No_Termite
+749,12055.76,0.1569,0.1614,-1.8,7.01,Background Noise,No_Termite
+750,9692.15,0.1553,0.0863,6.64,7.58,Background Noise,No_Termite
+751,5113.53,0.8247,0.5278,8.49,27.82,Feeding,Termite
+752,6931.18,0.2884,0.1335,-8.21,8.52,Background Noise,No_Termite
+753,418.96,0.201,0.1548,-8.57,9.64,Background Noise,No_Termite
+754,9359.38,0.6068,0.549,19.86,19.39,Excavating,Termite
+755,8858.46,0.9547,0.5741,5.89,21.22,Feeding,Termite
+756,6262.87,0.4562,0.1925,2.18,2.02,Background Noise,No_Termite
+757,6089.23,0.3831,0.1238,-5.94,1.84,Background Noise,No_Termite
+758,12370.78,0.1766,0.1225,-7.34,0.4,Background Noise,No_Termite
+759,19694.62,0.0826,0.0588,3.84,2.09,Background Noise,No_Termite
+760,8567.56,0.0301,0.0183,-1.98,5.65,Background Noise,No_Termite
+761,3655.72,0.7923,0.7479,11.54,11.3,Alarm/Drumming,Termite
+762,1401.09,0.8881,0.7648,17.89,24.03,Alarm/Drumming,Termite
+763,9412.72,0.6995,0.6205,19.84,11.89,Feeding,Termite
+764,18595.13,0.403,0.1873,-8.85,2.05,Background Noise,No_Termite
+765,3186.27,0.9923,0.5857,18.79,12.61,Feeding,Termite
+766,19534.69,0.4049,0.1143,5.65,3.77,Background Noise,No_Termite
+767,3695.09,0.125,0.0883,3.61,9.48,Background Noise,No_Termite
+768,7935.73,0.2334,0.1882,-5.89,6.08,Background Noise,No_Termite
+769,3349.33,0.6256,0.4129,11.8,16.86,Feeding,Termite
+770,1242.1,0.4445,0.0464,0.76,5.83,Background Noise,No_Termite
+771,4483.68,0.7348,0.5028,3.16,22.53,Excavating,Termite
+772,13865.23,0.0384,0.0984,7.62,6.61,Background Noise,No_Termite
+773,5268.48,0.8728,0.5492,20.55,27.75,Feeding,Termite
+774,2370.66,0.7237,0.78,18.34,17.13,Alarm/Drumming,Termite
+775,1756.14,0.2507,0.0265,-0.11,8.63,Background Noise,No_Termite
+776,8838.62,0.9219,0.5346,4.2,10.1,Feeding,Termite
+777,2537.85,0.7612,0.7147,9.71,14.36,Alarm/Drumming,Termite
+778,3934.26,0.163,0.1972,-1.51,1.29,Background Noise,No_Termite
+779,4626.88,0.1797,0.2356,-3.83,1.66,Background Noise,No_Termite
+780,19763.67,0.106,0.2239,-1.71,4.85,Background Noise,No_Termite
+781,14222.46,0.0441,0.0332,2.97,9.84,Background Noise,No_Termite
+782,5708.32,0.0389,0.0152,3.94,1.84,Background Noise,No_Termite
+783,4943.35,0.7428,0.2163,20.24,20.15,Feeding,Termite
+784,7737.95,0.7448,0.5213,13.49,27.33,Feeding,Termite
+785,8930.53,0.7011,0.569,23.39,27.35,Feeding,Termite
+786,19244.96,0.2374,0.0769,7.26,5.09,Background Noise,No_Termite
+787,2942.0,0.1556,0.077,-2.71,5.8,Background Noise,No_Termite
+788,1164.9,0.5872,0.2927,12.67,18.68,Alarm/Drumming,Termite
+789,2958.53,0.5891,0.3819,24.26,12.91,Excavating,Termite
+790,18899.68,0.294,0.2283,-9.89,3.35,Background Noise,No_Termite
+791,3845.11,0.6227,0.7764,14.83,11.37,Alarm/Drumming,Termite
+792,382.51,0.236,0.1763,3.2,2.58,Background Noise,No_Termite
+793,19908.89,0.2783,0.138,-2.7,2.88,Background Noise,No_Termite
+794,3466.32,0.4296,0.1296,0.86,9.77,Background Noise,No_Termite
+795,5665.98,0.7818,0.7942,16.45,22.37,Feeding,Termite
+796,7482.38,0.1018,0.1023,-3.75,7.72,Background Noise,No_Termite
+797,8692.96,0.2524,0.2006,0.38,7.82,Background Noise,No_Termite
+798,6907.18,0.1344,0.0639,-0.92,8.1,Background Noise,No_Termite
+799,5290.9,0.3312,0.1327,-1.98,0.09,Background Noise,No_Termite
+800,19342.67,0.4344,0.0435,0.25,5.71,Background Noise,No_Termite
+801,17372.79,0.3646,0.0993,-8.34,5.83,Background Noise,No_Termite
+802,4247.55,0.6598,0.78,24.08,26.68,Excavating,Termite
+803,5027.87,0.4499,0.242,-2.02,3.48,Background Noise,No_Termite
+804,6487.84,0.3501,0.0756,3.26,5.26,Background Noise,No_Termite
+805,968.3,0.7091,0.3894,13.8,14.66,Feeding,Termite
+806,6482.6,0.1685,0.244,-2.6,1.92,Background Noise,No_Termite
+807,8949.78,0.492,0.068,2.26,5.77,Background Noise,No_Termite
+808,14348.1,0.0625,0.1724,-8.85,6.07,Background Noise,No_Termite
+809,7526.02,0.9287,0.2182,21.56,10.27,Excavating,Termite
+810,2567.09,0.979,0.2436,7.38,8.34,Excavating,Termite
+811,7021.66,0.2815,0.0402,-4.78,6.2,Background Noise,No_Termite
+812,4851.16,0.2173,0.179,-6.09,2.14,Background Noise,No_Termite
+813,4213.72,0.9796,0.6801,8.32,29.41,Feeding,Termite
+814,1453.94,0.1481,0.1314,4.0,3.17,Background Noise,No_Termite
+815,17180.63,0.1926,0.1749,-4.37,8.45,Background Noise,No_Termite
+816,1312.02,0.0247,0.1082,-4.07,7.02,Background Noise,No_Termite
+817,13898.21,0.166,0.2048,-4.71,7.66,Background Noise,No_Termite
+818,7406.68,0.9943,0.3351,17.57,22.32,Feeding,Termite
+819,9193.44,0.8883,0.541,9.04,8.91,Excavating,Termite
+820,3670.88,0.9501,0.5416,16.9,19.48,Excavating,Termite
+821,10423.08,0.1318,0.1281,-4.42,0.51,Background Noise,No_Termite
+822,5289.26,0.6661,0.4784,5.93,13.07,Feeding,Termite
+823,3603.11,0.5978,0.6655,20.78,20.61,Alarm/Drumming,Termite
+824,1582.68,0.9254,0.5464,17.22,21.1,Excavating,Termite
+825,9221.43,0.0365,0.1634,-8.53,5.29,Background Noise,No_Termite
+826,8756.79,0.2818,0.042,2.45,2.93,Background Noise,No_Termite
+827,2051.87,0.6155,0.7263,14.62,7.61,Excavating,Termite
+828,1513.76,0.9406,0.6969,16.77,21.24,Excavating,Termite
+829,1598.05,0.0437,0.0718,-7.56,1.12,Background Noise,No_Termite
+830,4158.05,0.8247,0.701,18.63,28.57,Feeding,Termite
+831,7491.24,0.8376,0.4046,24.95,11.88,Feeding,Termite
+832,3151.74,0.5611,0.618,18.96,28.27,Feeding,Termite
+833,3923.32,0.5794,0.6931,17.22,24.63,Alarm/Drumming,Termite
+834,1719.32,0.9921,0.7471,12.66,21.25,Excavating,Termite
+835,3941.79,0.8657,0.4756,4.21,25.66,Feeding,Termite
+836,4955.74,0.8385,0.387,14.56,28.21,Feeding,Termite
+837,1414.5,0.1928,0.1247,-3.6,9.73,Background Noise,No_Termite
+838,6791.21,0.6707,0.3894,5.76,22.88,Excavating,Termite
+839,13144.65,0.3069,0.2187,6.03,0.4,Background Noise,No_Termite
+840,9035.85,0.0569,0.171,4.78,4.59,Background Noise,No_Termite
+841,4502.36,0.9447,0.3459,15.11,25.97,Feeding,Termite
+842,3930.61,0.4573,0.2069,3.68,1.02,Background Noise,No_Termite
+843,8515.42,0.7041,0.5279,5.01,15.95,Feeding,Termite
+844,15157.27,0.1096,0.0552,-6.68,5.82,Background Noise,No_Termite
+845,6084.09,0.5579,0.2294,15.6,26.01,Feeding,Termite
+846,1980.22,0.8184,0.3645,3.59,15.24,Alarm/Drumming,Termite
+847,6443.67,0.8838,0.6051,7.53,19.52,Excavating,Termite
+848,7114.37,0.0823,0.1723,5.45,1.26,Background Noise,No_Termite
+849,19258.38,0.1084,0.0354,4.63,6.28,Background Noise,No_Termite
+850,11617.25,0.3951,0.1788,5.02,6.18,Background Noise,No_Termite
+851,7601.45,0.6788,0.5843,9.91,26.27,Feeding,Termite
+852,19163.62,0.2983,0.05,2.82,0.33,Background Noise,No_Termite
+853,2736.14,0.9617,0.327,6.17,17.36,Feeding,Termite
+854,15203.64,0.4577,0.0452,1.63,5.01,Background Noise,No_Termite
+855,1989.22,0.8172,0.6529,9.81,22.09,Feeding,Termite
+856,4351.98,0.6815,0.3769,10.8,29.6,Feeding,Termite
+857,2897.07,0.6696,0.7375,5.28,27.88,Excavating,Termite
+858,9116.36,0.9857,0.4717,23.81,9.22,Excavating,Termite
+859,13568.72,0.1104,0.0829,-8.33,3.02,Background Noise,No_Termite
+860,1494.27,0.908,0.2848,5.87,15.57,Feeding,Termite
+861,12904.24,0.0669,0.05,6.63,1.97,Background Noise,No_Termite
+862,2062.19,0.7918,0.6063,18.02,19.84,Alarm/Drumming,Termite
+863,12611.81,0.0387,0.1193,6.04,2.66,Background Noise,No_Termite
+864,8407.71,0.6236,0.6151,17.83,29.79,Excavating,Termite
+865,3956.8,0.6596,0.6791,5.35,20.3,Alarm/Drumming,Termite
+866,15635.92,0.2038,0.1614,-2.26,9.1,Background Noise,No_Termite
+867,3448.52,0.9713,0.7645,6.85,24.05,Feeding,Termite
+868,3212.29,0.5803,0.3608,23.07,13.79,Alarm/Drumming,Termite
+869,12700.26,0.1434,0.1827,-9.49,7.21,Background Noise,No_Termite
+870,7568.89,0.0901,0.2075,-5.77,6.27,Background Noise,No_Termite
+871,4349.37,0.5984,0.2101,23.01,19.9,Excavating,Termite
+872,8286.93,0.6451,0.3591,17.58,29.98,Feeding,Termite
+873,19312.43,0.2614,0.2008,-7.56,9.16,Background Noise,No_Termite
+874,3893.06,0.6847,0.2601,8.98,12.46,Alarm/Drumming,Termite
+875,2134.95,0.704,0.7888,16.85,11.33,Alarm/Drumming,Termite
+876,2082.12,0.9194,0.3689,4.54,29.65,Feeding,Termite
+877,1226.85,0.2988,0.2329,-1.06,1.2,Background Noise,No_Termite
+878,16874.62,0.3601,0.1856,-6.87,4.46,Background Noise,No_Termite
+879,6554.37,0.7127,0.5209,24.92,6.77,Feeding,Termite
+880,8252.54,0.9084,0.5572,22.51,15.8,Excavating,Termite
+881,6240.89,0.7378,0.2866,5.06,20.75,Feeding,Termite
+882,431.76,0.1335,0.0608,3.25,8.74,Background Noise,No_Termite
+883,5307.42,0.9819,0.7109,22.0,9.06,Feeding,Termite
+884,7742.43,0.5539,0.212,15.91,8.6,Feeding,Termite
+885,9162.36,0.0236,0.1114,2.93,5.18,Background Noise,No_Termite
+886,7456.08,0.9159,0.5531,7.64,10.83,Feeding,Termite
+887,4810.74,0.4184,0.1098,-5.35,6.28,Background Noise,No_Termite
+888,3007.8,0.7696,0.3226,16.79,16.72,Alarm/Drumming,Termite
+889,9958.63,0.7686,0.5395,23.17,17.0,Feeding,Termite
+890,2353.39,0.8138,0.4954,7.23,20.78,Alarm/Drumming,Termite
+891,9332.33,0.4591,0.0905,7.14,2.46,Background Noise,No_Termite
+892,10707.8,0.2806,0.0411,-3.24,6.32,Background Noise,No_Termite
+893,2073.01,0.2345,0.1967,-6.03,6.23,Background Noise,No_Termite
+894,4360.16,0.8697,0.4514,14.38,28.16,Feeding,Termite
+895,1775.84,0.3399,0.0785,0.54,9.85,Background Noise,No_Termite
+896,9675.45,0.8416,0.3473,18.79,9.37,Feeding,Termite
+897,6897.49,0.9516,0.2472,10.28,20.36,Excavating,Termite
+898,5040.92,0.2069,0.1858,2.33,9.88,Background Noise,No_Termite
+899,2770.48,0.735,0.3406,3.43,12.03,Feeding,Termite
+900,3896.83,0.7023,0.2043,17.97,15.12,Alarm/Drumming,Termite
+901,1439.82,0.9055,0.5698,3.99,12.39,Alarm/Drumming,Termite
+902,3434.72,0.8964,0.6866,11.81,14.22,Excavating,Termite
+903,2219.39,0.7677,0.7385,22.97,21.58,Alarm/Drumming,Termite
+904,1839.59,0.4163,0.1999,-6.38,9.36,Background Noise,No_Termite
+905,3550.4,0.9785,0.2299,6.3,14.34,Alarm/Drumming,Termite
+906,10797.86,0.3297,0.0141,7.29,5.76,Background Noise,No_Termite
+907,987.3,0.0267,0.146,6.78,1.43,Background Noise,No_Termite
+908,8315.25,0.7939,0.4757,13.98,5.33,Excavating,Termite
+909,7002.14,0.8943,0.4912,6.29,17.58,Feeding,Termite
+910,2137.67,0.8259,0.2943,24.17,26.81,Excavating,Termite
+911,10415.47,0.3209,0.0708,4.47,0.73,Background Noise,No_Termite
+912,3936.84,0.7547,0.6521,5.91,17.53,Alarm/Drumming,Termite
+913,10983.62,0.0629,0.1103,5.36,5.46,Background Noise,No_Termite
+914,1297.71,0.6682,0.7249,5.84,11.36,Alarm/Drumming,Termite
+915,14427.94,0.3191,0.0955,4.2,1.01,Background Noise,No_Termite
+916,6572.42,0.8711,0.7242,5.79,10.89,Feeding,Termite
+917,2780.73,0.7424,0.2965,18.41,11.91,Alarm/Drumming,Termite
+918,15201.48,0.2629,0.2055,6.85,1.06,Background Noise,No_Termite
+919,10319.01,0.2771,0.1046,5.27,9.5,Background Noise,No_Termite
+920,4983.07,0.9311,0.6992,11.88,17.26,Excavating,Termite
+921,6732.67,0.2949,0.0672,4.29,4.92,Background Noise,No_Termite
+922,3673.43,0.6575,0.7696,9.71,7.67,Excavating,Termite
+923,3460.3,0.1674,0.0184,-4.18,4.61,Background Noise,No_Termite
+924,10927.76,0.1911,0.1174,7.38,5.52,Background Noise,No_Termite
+925,2953.15,0.756,0.6557,7.53,11.09,Feeding,Termite
+926,700.92,0.8991,0.4032,15.4,15.47,Excavating,Termite
+927,7548.96,0.9336,0.3189,22.24,6.31,Feeding,Termite
+928,7115.33,0.1732,0.2274,-7.72,7.23,Background Noise,No_Termite
+929,3652.54,0.0593,0.057,6.99,4.93,Background Noise,No_Termite
+930,2128.78,0.7952,0.3618,18.45,23.85,Alarm/Drumming,Termite
+931,9896.69,0.8524,0.2312,5.5,11.63,Excavating,Termite
+932,177.98,0.4051,0.1988,-0.82,9.99,Background Noise,No_Termite
+933,6071.33,0.1566,0.1002,3.61,1.51,Background Noise,No_Termite
+934,10839.27,0.0287,0.0346,-2.61,0.77,Background Noise,No_Termite
+935,2912.21,0.7599,0.417,5.38,22.03,Alarm/Drumming,Termite
+936,3349.48,0.7805,0.4924,16.75,12.52,Alarm/Drumming,Termite
+937,2739.31,0.5726,0.2377,7.12,18.1,Alarm/Drumming,Termite
+938,746.17,0.3672,0.0427,5.05,7.43,Background Noise,No_Termite
+939,3361.17,0.7175,0.3528,13.76,11.22,Feeding,Termite
+940,8207.42,0.0468,0.0441,-9.05,9.87,Background Noise,No_Termite
+941,1017.84,0.7804,0.5162,15.36,25.91,Excavating,Termite
+942,3499.19,0.173,0.1524,-6.22,1.98,Background Noise,No_Termite
+943,2415.0,0.0306,0.2026,4.18,9.7,Background Noise,No_Termite
+944,6014.56,0.0899,0.1774,1.57,1.36,Background Noise,No_Termite
+945,9406.07,0.6201,0.3461,21.53,22.3,Excavating,Termite
+946,1188.96,0.7311,0.752,17.31,22.58,Feeding,Termite
+947,9504.64,0.7017,0.4414,4.13,11.46,Feeding,Termite
+948,9980.66,0.2125,0.0942,3.91,1.23,Background Noise,No_Termite
+949,16083.09,0.1959,0.0996,-7.27,1.53,Background Noise,No_Termite
+950,15989.22,0.1114,0.098,-8.1,7.07,Background Noise,No_Termite
+951,12601.31,0.4932,0.1974,-2.98,1.21,Background Noise,No_Termite
+952,11613.42,0.286,0.0519,-3.18,9.11,Background Noise,No_Termite
+953,2932.64,0.9401,0.7364,23.24,19.76,Alarm/Drumming,Termite
+954,1987.5,0.3754,0.1917,0.92,5.44,Background Noise,No_Termite
+955,8075.5,0.5888,0.4783,6.83,23.0,Feeding,Termite
+956,671.77,0.7974,0.5717,17.6,15.01,Feeding,Termite
+957,16742.2,0.0778,0.2144,-7.18,2.15,Background Noise,No_Termite
+958,3527.61,0.9916,0.2584,9.67,17.51,Alarm/Drumming,Termite
+959,3825.07,0.5795,0.5296,16.0,28.21,Excavating,Termite
+960,13089.29,0.195,0.2125,-6.49,2.56,Background Noise,No_Termite
+961,2687.97,0.8711,0.3245,15.51,21.43,Alarm/Drumming,Termite
+962,17367.69,0.484,0.1185,-7.43,4.32,Background Noise,No_Termite
+963,9541.17,0.9406,0.7288,10.7,12.99,Feeding,Termite
+964,7383.3,0.9023,0.4656,13.68,12.79,Feeding,Termite
+965,4132.45,0.7193,0.4204,14.57,16.08,Excavating,Termite
+966,2085.3,0.8518,0.3617,9.11,17.86,Alarm/Drumming,Termite
+967,18674.92,0.297,0.1655,-9.47,7.24,Background Noise,No_Termite
+968,5340.33,0.7117,0.2489,7.25,18.64,Excavating,Termite
+969,19019.82,0.244,0.0227,-9.32,4.09,Background Noise,No_Termite
+970,5611.9,0.6594,0.6469,6.7,17.72,Excavating,Termite
+971,3879.7,0.1574,0.0694,1.61,4.61,Background Noise,No_Termite
+972,13054.34,0.2205,0.0275,-5.07,8.25,Background Noise,No_Termite
+973,19602.11,0.3607,0.0118,-0.67,5.96,Background Noise,No_Termite
+974,5907.69,0.9858,0.5243,13.08,28.02,Feeding,Termite
+975,3020.83,0.7596,0.3441,13.34,10.97,Alarm/Drumming,Termite
+976,6030.38,0.6239,0.5022,21.26,13.92,Excavating,Termite
+977,13313.84,0.4691,0.2289,-6.23,3.38,Background Noise,No_Termite
+978,7542.43,0.9855,0.7339,16.21,25.69,Feeding,Termite
+979,764.49,0.7568,0.5771,15.26,11.17,Excavating,Termite
+980,14878.46,0.2912,0.0312,-2.55,2.8,Background Noise,No_Termite
+981,7087.31,0.6751,0.4989,10.25,29.77,Excavating,Termite
+982,8868.0,0.3484,0.2218,-6.34,8.57,Background Noise,No_Termite
+983,1179.29,0.6981,0.3888,14.27,23.33,Alarm/Drumming,Termite
+984,1143.34,0.9355,0.4376,7.38,15.28,Alarm/Drumming,Termite
+985,8553.4,0.4594,0.1929,-0.91,3.86,Background Noise,No_Termite
+986,2395.83,0.668,0.4616,6.45,10.87,Alarm/Drumming,Termite
+987,18956.55,0.1488,0.1518,2.99,7.67,Background Noise,No_Termite
+988,3644.91,0.8986,0.5373,15.16,17.73,Alarm/Drumming,Termite
+989,1698.31,0.671,0.2126,18.9,18.24,Feeding,Termite
+990,746.48,0.2788,0.2425,-1.28,5.95,Background Noise,No_Termite
+991,1365.67,0.4237,0.2492,-2.25,5.52,Background Noise,No_Termite
+992,6473.94,0.1118,0.1577,-2.7,9.07,Background Noise,No_Termite
+993,3799.24,0.8587,0.7693,8.9,11.63,Feeding,Termite
+994,16248.17,0.2783,0.0269,6.81,0.55,Background Noise,No_Termite
+995,6750.52,0.8414,0.7814,18.71,25.6,Excavating,Termite
+996,2551.4,0.7877,0.2761,16.03,11.76,Alarm/Drumming,Termite
+997,9701.61,0.0248,0.0568,-1.16,6.23,Background Noise,No_Termite
+998,2150.83,0.8716,0.5623,9.58,16.37,Alarm/Drumming,Termite
+999,8275.25,0.4837,0.0414,-3.31,2.18,Background Noise,No_Termite
+1000,2606.91,0.6405,0.248,13.44,24.51,Feeding,Termite

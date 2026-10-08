@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "157810342197",
+    "firebase_url": "https://termite-detector-69393-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "termite-detector-69393",
+    "storage_bucket": "termite-detector-69393.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157810342197:android:c2f7a9af32c76e5ab2747c",
+        "android_client_info": {
+          "package_name": "com.termiguard.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqH5UjR5_-J6RRUpETufqNQbPfSs7Vv7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
